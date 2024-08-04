@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Exercise 2 – Manage users and groups'
+    module: 'Learning Path 1 - Configure your Microsoft 365 tenant'
+---
+
 # Learning Path 1 - Lab 1 - Exercise 2 - Manage Users and Groups 
 
 Organizations must ensure that access to their company data on Microsoft 365 is always secure. Microsoft 365 often displays sensitive and confidential data, including emails, documents, customer information, and intellectual property. Unauthorized access to Microsoft 365 can lead to data breaches, identity theft, and other malicious activities. By securing user access, organizations can prevent unauthorized individuals from accessing and potentially misusing or leaking company data when working in Microsoft 365.
