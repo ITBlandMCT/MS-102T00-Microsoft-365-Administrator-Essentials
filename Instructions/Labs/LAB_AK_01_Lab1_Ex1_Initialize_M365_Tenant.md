@@ -1,3 +1,9 @@
+---
+lab:
+    task: 'Initialize your Microsoft 365 Tenant'
+    exercise: 'Learning Path 1 - Lab 1 - Exercise 1 - Initialize your Microsoft 365 Tenant'
+---
+
 ## WWL Tenants - Terms of Use
 
 If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
