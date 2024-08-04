@@ -1,7 +1,7 @@
 ---
 lab:
-    task: 'Initialize your Microsoft 365 Tenant'
-    exercise: 'Learning Path 1 - Lab 1 - Exercise 1 - Initialize your Microsoft 365 Tenant'
+    title: 'Exercise 1 - Initialize your Microsoft 365 Tenant'
+    module: 'Learning Path 1 - Configure your Microsoft 365 tenant'
 ---
 
 ## WWL Tenants - Terms of Use
