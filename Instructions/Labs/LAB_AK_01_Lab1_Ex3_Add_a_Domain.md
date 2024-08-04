@@ -1,3 +1,9 @@
+---
+lab:
+    title: 'Exercise 3 - Add a Custom Domain'
+    module: 'Learning Path 1 - Configure your Microsoft 365 tenant'
+---
+
 # Learning Path 1 - Lab 1 - Exercise 3 - Add a Custom Domain
 
 When a company purchases Microsoft 365, they are typically provided with a default domain name in the format of **companyname.onmicrosoft.com**. The "companyname" in companyname.onmicrosoft.com is a placeholder for the actual name of the company that purchases Microsoft 365. This default domain name is assigned by Microsoft during the sign-up process and is unique to the organization. It serves as an initial domain that can be used to access Microsoft 365 services immediately. 
